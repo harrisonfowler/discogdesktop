@@ -1,11 +1,5 @@
 body{ 
- background-image:url("texture.jpg");
- background-attachment: fixed;
- no-repeat center center fixed; 
- -webkit-background-size: cover;
- -moz-background-size: cover;
- -o-background-size: cover;
- background-size: cover;
+ background-color: #DA938F;
  margin: 0;
  font-size: 16px;
 }
